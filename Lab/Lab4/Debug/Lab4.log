@@ -1,0 +1,20 @@
+﻿  Lab4.c
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(70,24): warning C4101: “outimageP”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(90,15): warning C4101: “p”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(90,18): warning C4101: “q”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(90,26): warning C4101: “count”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(134,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(113,15): warning C4101: “p”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(113,18): warning C4101: “q”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(113,27): warning C4101: “count”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(154,121): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(161,77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(144,34): warning C4101: “y”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(144,15): warning C4101: “p”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(144,18): warning C4101: “q”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(144,31): warning C4101: “x”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(194,29): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(236,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(207,36): warning C4101: “y”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab4\Lab4.c(207,33): warning C4101: “x”: 未引用的局部变量
+  Lab4.vcxproj -> D:\大三下\Digital Image Processing\Lab\Lab4\Debug\Lab4.exe

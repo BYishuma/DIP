@@ -1,0 +1,49 @@
+﻿  Lab5.c
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(57,37): warning C4133: “函数”: 从“float *”到“int *”的类型不兼容
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(57,41): warning C4133: “函数”: 从“float *”到“int *”的类型不兼容
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(50,22): warning C4101: “FFTimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(67,41): warning C4028: 形参 2 与声明不同
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(67,52): warning C4028: 形参 3 与声明不同
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(81,93): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(88,90): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(89,92): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(90,92): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(98,87): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(99,122): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(100,122): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(102,127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(103,48): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(70,28): warning C4101: “sum”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(70,17): warning C4101: “imaginary”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(70,11): warning C4101: “real”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(69,9): warning C4101: “size”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(129,91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(138,85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(139,122): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(140,122): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(150,84): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(151,101): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(152,107): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(154,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(155,48): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(114,20): warning C4101: “tempin”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(117,28): warning C4101: “sum”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(119,23): warning C4101: “tempimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(115,9): warning C4101: “size”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(114,39): warning C4101: “temp”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(180,150): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(188,85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(195,78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(196,82): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(197,82): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(208,84): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(209,102): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(210,107): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(212,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(213,48): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(166,20): warning C4101: “tempin”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(169,28): warning C4101: “sum”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(171,24): warning C4101: “tempimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(167,9): warning C4101: “size”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab5\Lab5.c(166,41): warning C4101: “temp”: 未引用的局部变量
+  Lab5.vcxproj -> D:\大三下\Digital Image Processing\Lab\Lab5\Debug\Lab5.exe

@@ -1,0 +1,26 @@
+﻿  Lab9.c
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(72,18): warning C4013: “TestReadImage”未定义；假设外部返回 int
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(82,24): warning C4101: “noiseImage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(163,28): warning C4305: “函数”: 从“double”到“float”截断
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(196,28): warning C4305: “函数”: 从“double”到“float”截断
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(239,48): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(292,51): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(391,36): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(207,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(204,21): warning C4101: “res”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(409,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(406,26): warning C4101: “sumX”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(408,12): warning C4101: “sum”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(406,15): warning C4101: “p”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(406,21): warning C4101: “res”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(406,18): warning C4101: “q”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(406,12): warning C4101: “j”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(406,9): warning C4101: “i”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(406,32): warning C4101: “sumY”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(466,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(467,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(487,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(488,25): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(455,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab9\Lab9.c(521): warning C4716: “Threshold”: 必须返回一个值
+  Lab9.vcxproj -> D:\大三下\Digital Image Processing\Lab\Lab9\Debug\Lab9.exe

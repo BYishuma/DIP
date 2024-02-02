@@ -1,0 +1,29 @@
+﻿  Lab7.c
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(108,45): warning C4020: “AlphaTriMeanFilter”: 实参太多
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(155,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(156,84): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(166,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(139,12): warning C4101: “inimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(188,81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(190,48): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(177,11): warning C4101: “filter”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(176,11): warning C4101: “dist”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(178,9): warning C4101: “temp”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(217,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(230,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(199,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(200,12): warning C4101: “inimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(254,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(265,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(238,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(289,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(300,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(272,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(369,86): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(379,60): warning C4029: 声明的形参表不同于定义
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(396,70): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(461,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(491,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(513,62): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab7\Lab7.c(514,62): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  Lab7.vcxproj -> D:\大三下\Digital Image Processing\Lab\Lab7\Debug\Lab7.exe

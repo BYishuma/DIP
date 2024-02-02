@@ -1,0 +1,28 @@
+﻿  Lab6.c
+D:\大三下\Digital Image Processing\Lab\Lab6\proto.h(81,63): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\proto.h(202,57): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(79,22): warning C4101: “FFTimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(116,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(130,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(98,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(99,12): warning C4101: “inimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(154,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(165,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(138,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(189,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(200,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(172,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(224,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(238,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(207,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(261,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(272,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(244,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(296,106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(307,85): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(279,30): warning C4101: “tempout”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(342,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(372,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(394,62): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab6\Lab6.c(395,62): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  Lab6.vcxproj -> D:\大三下\Digital Image Processing\Lab\Lab6\x64\Debug\Lab6.exe

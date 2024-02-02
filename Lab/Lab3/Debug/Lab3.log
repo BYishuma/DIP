@@ -1,0 +1,26 @@
+﻿  image.c
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(85,24): warning C4101: “outimageP”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(115,50): warning C4028: 形参 2 与声明不同
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(133,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(134,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(140,86): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(146,51): warning C4029: 声明的形参表不同于定义
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(148,9): warning C4101: “size”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(174,43): warning C4029: 声明的形参表不同于定义
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(186,71): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(187,71): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(203,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(204,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(177,21): warning C4101: “rx”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(177,11): warning C4101: “srx”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(177,25): warning C4101: “ry”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(177,16): warning C4101: “sry”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(237,59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(255,55): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(290,58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(305,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(391,18): warning C4028: 形参 1 与声明不同
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(401,15): warning C4101: “p”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(401,18): warning C4101: “q”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab3\image.c(401,21): warning C4101: “temp”: 未引用的局部变量
+  Lab3.vcxproj -> D:\大三下\Digital Image Processing\Lab\Lab3\Debug\Lab3.exe

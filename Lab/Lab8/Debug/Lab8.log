@@ -1,0 +1,12 @@
+﻿  Lab7.c
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(79,24): warning C4101: “noiseImage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(110,23): warning C4101: “tempimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(168,24): warning C4101: “tempimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(255,24): warning C4101: “tempimage”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(253,15): warning C4101: “p”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(253,18): warning C4101: “q”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(253,12): warning C4101: “j”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(292,12): warning C4101: “j”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(292,9): warning C4101: “i”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab\Lab8\Lab7.c(393,12): warning C4101: “j”: 未引用的局部变量
+  Lab8.vcxproj -> D:\大三下\Digital Image Processing\Lab\Lab8\Debug\Lab8.exe

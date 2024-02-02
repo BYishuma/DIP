@@ -1,0 +1,15 @@
+﻿  image.c
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(70,22): warning C4101: “outimageP”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(98,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(99,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(101,86): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(102,91): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(117,9): warning C4101: “size”: 未引用的局部变量
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(145,43): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(146,45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(175,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(176,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(203,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(204,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大三下\Digital Image Processing\Lab2\Lab2\image.c(210,86): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  Lab2.vcxproj -> D:\大三下\Digital Image Processing\Lab2\Debug\Lab2.exe
